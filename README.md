@@ -1,2 +1,2 @@
 # Listes des outils pour l'audit financière à Madagascar
-Edi-annexe-TVA mise à jour pour l'extraction en xml des annexes TVA
+Edi-annexe-TVA mise à jour pour minimiser les erreurs lors de l'intégration des xml vers l'e-hetra
